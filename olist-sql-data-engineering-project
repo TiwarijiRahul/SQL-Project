@@ -1,0 +1,100 @@
+# Olist E-Commerce SQL Analytics & Data Engineering Project
+
+## Project Overview
+
+This project demonstrates end-to-end SQL-based data engineering and analytics using the Brazilian Olist E-Commerce Dataset.
+
+The project includes:
+
+- Database design and normalization
+- Data quality assessment
+- Data cleaning
+- Advanced SQL analytics
+- Window functions
+- CTEs and recursive CTEs
+- Stored procedures
+- Query optimization
+- Performance tuning with indexing
+
+---
+
+## Dataset
+
+Source:
+Olist Brazilian E-Commerce Dataset
+
+Tables:
+
+- customers
+- orders
+- order_items
+- order_payments
+- order_reviews
+- products
+- sellers
+
+---
+
+## Database Design
+
+ERD Diagram:
+
+![ERD](database_design/ecommerce_erd.png)
+
+---
+
+## SQL Concepts Covered
+
+### Data Cleaning
+
+- NULL handling
+- Duplicate checks
+- Referential integrity validation
+- Data type validation
+
+### Advanced SQL
+
+- Joins
+- Aggregations
+- CTEs
+- Recursive CTEs
+- Window Functions
+- Ranking Functions
+- Running Totals
+- Moving Averages
+- LAG / LEAD
+
+### Optimization
+
+- Execution plan analysis
+- Index creation
+- Query tuning
+
+---
+
+## Sample Business Questions Solved
+
+- Top revenue-generating categories
+- Customer purchasing behavior
+- Monthly sales trends
+- Seller performance ranking
+- Consecutive customer purchase analysis
+- Running revenue calculations
+- Moving average analysis
+
+---
+
+## Tools Used
+
+- SQL Server
+- Azure Data Studio
+- Draw.io
+- GitHub
+
+---
+
+## Author
+
+Rahul Tiwari
+
+Data Analyst → Data Engineering
